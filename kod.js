@@ -18,12 +18,12 @@ suwak.addEventListener("click", ()=>{
     serce[1].style.filter = `grayscale(0)`;
     serce[2].style.filter = `grayscale(100)`;
    }
-   if(value3==1)
+   if(value2==2)
    {
     serce[2].style.filter = `grayscale(0)`;
     serce[3].style.filter = `grayscale(100)`;
    }
-   if(value4==1)
+   if(value2==3)
    {
     serce[3].style.filter = `grayscale(0)`;
    }
